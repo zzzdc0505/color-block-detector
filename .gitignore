@@ -8,3 +8,4 @@ images/
 *.png
 !docs/*.jpg
 !docs/*.png
+!notes/img/*.png
